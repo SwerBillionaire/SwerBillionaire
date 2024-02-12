@@ -20,10 +20,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [guregu/null เวอร์ชั่นใหม่หลังจากไม่มีการเคลื่อนไหวกว่า 4 ปี](https://www.anuwong.com/blog/guregu-null-v5-%E0%B8%9B%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7/)
 - [ประหยัดเงินค่า Coding Assistant ด้วย TabbyML](https://www.anuwong.com/blog/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B8%A2%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B9%88%E0%B8%B2-coding-assistant-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-tabbyml/)
 - [ทำ Transaction ใน redis ด้วย MULTI และ WATCH](https://www.anuwong.com/blog/2024-01-29-redis-watch/)
 - [ลองใช้ Built-in env file ใน Node 20](https://www.anuwong.com/blog/node-20-env-with-confident/)
-- [ใช้ Honojs กับ Cloudflare Pages Functions](https://www.anuwong.com/blog/honojs-with-cloudflare-pages-functions/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
