@@ -1,8 +1,8 @@
 # Hi there, I'm Anuwong (Bill) Mongkudkornburee 👋
 
-## About Me
+## About
 
-I'm a passionate backend developer with 6 years of experience in Node.js and Golang. I love building scalable and efficient solutions that solve real-world problems.
+Experienced Full-Stack Developer with six years in the industry, specializing in Golang, Node.js, and ReactJS. Passionate about crafting solutions that directly impact users' experiences. Continuously seeking opportunities to innovate and create meaningful products. Let's connect and collaborate on building something impactful together.
 
 ## Skills
 
@@ -16,9 +16,9 @@ I'm a passionate backend developer with 6 years of experience in Node.js and Gol
 ## Experience
 
 - True Digital Group: Senior Programmer, 1 Year 6 Months
-  - Develop, maintain, and improve subscriptions domain APIs.
+  - Develop, maintain, and improve Subscription domain APIs.
 - The Dollarsign: Software Developer, 4 Years
-  - Design, develop, and initiate web application with cutting-edge technology.
+  - Design, develop, and initiate web applications with cutting-edge technology.
 
 ## Education
 
